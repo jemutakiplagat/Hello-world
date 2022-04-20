@@ -1,13 +1,14 @@
+
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# hello microverse
 
-> Description the project.
+> my first git installation tools module 1.
 
 
 ## Built With
 
-- Major languages
+- Major languages(html and css)
 - Frameworks
 - Technologies used
 
@@ -40,11 +41,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **jemutai kiplagat**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/jemutakiplagat)
+- Twitter: [@twitterhandle](https://twitter.com/@jemutaikiplaga1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jemutai-kiplagat-84782b235/)
 
 👤 **Author2**
 
